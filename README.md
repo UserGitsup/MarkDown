@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=안녕하세요,%20구디아카데미입니다.&fontSize=50" /> <br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=안녕하세요,%20UserGitsup입니다.&fontSize=50" /> <br>
 
 ## 보유 기술
 | 언어 | DB | IDE | 빌드 | 배포 | 기술 |
